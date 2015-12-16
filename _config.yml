@@ -1,7 +1,7 @@
 name: SprayCan Group
 favicon: null
-layout_spectrum: 0.9434802238829434
-typography_spectrum: 0.9884180536027998
+layout_spectrum: 1
+typography_spectrum: 0.27211
 title: SprayCan Group - Digital Marketing and Design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.35692352801561356
-  lightness: 0.24432799592614174
-  saturation: 0.6270529753528535
-  rhythmicContrast: 0.0555211016908288
+    - '#ffffff'
+    - '#8dc641'
+    - '#85a451'
+    - '#63625e'
+    - '#313740'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
