@@ -1,0 +1,28 @@
+name: SprayCan Group
+favicon: null
+layout_spectrum: 0.9434802238829434
+typography_spectrum: 0.9884180536027998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.35692352801561356
+  lightness: 0.24432799592614174
+  saturation: 0.6270529753528535
+  rhythmicContrast: 0.0555211016908288
+purpose: []
