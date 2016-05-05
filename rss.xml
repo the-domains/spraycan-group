@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SprayCan Group]]></title>
-        <description><![CDATA[SprayCan Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[SprayCan Group - Digital Marketing and Design]]></title>
+        <description><![CDATA[SprayCan Group - Digital Marketing and Design]]></description>
+        <link>https://thegrid.ai/spraycan-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 21:30:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 18:35:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spraycan-group/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SprayCan Group is a scalable marketing solution for small businesses and startups.]]></title>
-            <description><![CDATA[<h1>SprayCan Group is a scalable marketing solution for small businesses and startups.</h1>]]></description>
-            <link>undefinedspraycan-group-is-a-scalable-marketing-solution-for-small-bu/index.html</link>
+            <description><![CDATA[<article><h1>SprayCan Group is a scalable marketing solution for small businesses and startups.</h1><p>We are the marketing geeks that handle everything you either don’t have time to do, or don’t know how to do. We believe that design, absent of intent and purpose, is merely ornamental. And strategy, absent of creativity, is mediocre at best. Whether it’s designing a brand identity from top to bottom, creating a brilliant radio ad, or simply executing an email campaign, we put integrated brand management at the forefront of every project to ensure our clients get results.</p></article>]]></description>
+            <link>https://thegrid.ai/spraycan-group/spraycan-group-is-a-scalable-marketing-solution-for-small-bu/index.html</link>
             <guid isPermaLink="false">5bbba40b-b2d6-4227-838e-53d228f2555f</guid>
-            <pubDate>Wed, 16 Dec 2015 21:29:35 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 18:35:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
